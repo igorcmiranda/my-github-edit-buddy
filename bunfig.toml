@@ -1,0 +1,7 @@
+[install]
+registry = "https://registry.npmjs.org/"
+cache = false
+
+[install.scopes]
+"@radix-ui" = { registry = "https://registry.npmjs.org/" }
+"@fontsource" = { registry = "https://registry.npmjs.org/" }
